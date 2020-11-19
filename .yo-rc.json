@@ -1,0 +1,104 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "trial",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "6.10.5",
+    "applicationType": "monolith",
+    "baseName": "trial",
+    "packageName": "trial",
+    "packageFolder": "trial",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "no",
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "postgresql",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "NjUyMDVjNjFlYmRiNTVkMGI3MTQ3ZTNhZjQ1OGMzNjQ1MTk3MzE2NTYyY2M5YmVlZDQzNWQzMGVlNmUwZjNhZDA5NjNmNjk0NTE0ZDA4YzRhODBjZDNjNjUzZjE3YzNhZWI0MDhkZThmYWVhYjJmMGJhMjllOTFmNjUwZTQxYjM=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "creationTimestamp": 1605820900801,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [
+      {
+        "name": "generator-jhipster-primeng",
+        "version": "9.1.0"
+      },
+      {
+        "name": "generator-jhipster-kafka",
+        "version": "1.0.0"
+      },
+      {
+        "name": "generator-jhipster-testcontainers",
+        "version": "1.1.0"
+      },
+      {
+        "name": "generator-jhipster-electron",
+        "version": "1.1.0"
+      },
+      {
+        "name": "generator-jhipster-ngx-charts",
+        "version": "1.0.3"
+      },
+      {
+        "name": "generator-jhipster-file-handling",
+        "version": "1.1.1"
+      },
+      {
+        "name": "generator-jhipster-imageblobcache",
+        "version": "1.0.2"
+      },
+      {
+        "name": "generator-jhipster-flutter-merlin",
+        "version": "1.5.0"
+      },
+      {
+        "name": "generator-jhipster-imageblobindexation",
+        "version": "2.0.3"
+      },
+      {
+        "name": "generator-jhipster-ansible",
+        "version": "0.3.0"
+      },
+      {
+        "name": "generator-jhipster-jqassistant",
+        "version": "0.0.1"
+      },
+      {
+        "name": "generator-jhipster-safe-extensions",
+        "version": "0.0.2"
+      },
+      {
+        "name": "generator-jhipster-apiutils",
+        "version": "0.8.1"
+      },
+      {
+        "name": "generator-codegen",
+        "version": "0.3.1"
+      },
+      {
+        "name": "generator-jhipster-fullcalendar",
+        "version": "0.0.4"
+      }
+    ],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": ["en", "ar-ly", "hy"],
+    "blueprints": [],
+    "reactive": true
+  }
+}
